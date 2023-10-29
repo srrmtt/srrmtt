@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a fresh graduated Computer Science Student in Artificial Intelligence. Here are stored some of my university project and some of my current works. 
+
+- 📫 How to reach me: serra.matteo.sm@gmail.com
 <!--
 **srrmtt/srrmtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
