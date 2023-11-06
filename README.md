@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a fresh graduated Computer Science Student in Artificial Intelligence. Here are stored some of my university project and some of my current works. 
+I'm a fresh graduated Computer Science Student in Artificial Intelligence. Here are stored some of my university projects and some of my current works. 
 
 - 📫 How to reach me: serra.matteo.sm@gmail.com
 <!--
